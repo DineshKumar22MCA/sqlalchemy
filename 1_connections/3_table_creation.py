@@ -37,3 +37,4 @@ try:
         print("table not created")
 except Exception as e:
     print(str(e))
+    
